@@ -1,6 +1,7 @@
 <!--StartFragment-->
 
 **PROTEINS AS DRUG TARGETS**
+Author (@slack): Oghenerukevwe Omatie Adiohwo (@OmatieAdiohwo) 
 
 Proteins are large molecules of about twenty amino acids joined to each other by peptide bonds to form long chains. In addition to providing structural support, proteins are hormones, enzymes, building blocks, biochemical catalysts, and agents of cellular death. The primary function of proteins is to supply the building blocks for the body. They are the building blocks of several compounds of biological significance. Proteins play an essential part in human biology and health \[1].
 
