@@ -40,7 +40,7 @@ This methodology combines homology modeling, AI-based structure prediction, and 
 ### 3.1 Model Selection and Quality Assessment
 
 #### 3.1.1 SWISS-MODEL
-![Figure 2: Model predicted by SwissModel](./images/Stage-2/swiss-model.jpg)
+![Figure 2: Model predicted by SwissModel](./images/1JM7PDB_PROTEIN%20INT.png)
 *Figure 2: Model predicted by SwissModel*
 
 SWISS-MODEL generated multiple homology models based on the BRCA1 sequence:
