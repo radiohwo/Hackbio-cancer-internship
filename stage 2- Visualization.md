@@ -24,7 +24,7 @@ Two independent approaches were employed to predict the BRCA1 protein structure:
 - The protein sequence of BRCA1 (PDB ID: 1JM7) was obtained from the Protein Data Bank (https://www.rcsb.org/structure/).
 - The sequence was converted to FASTA format for input into the prediction servers.
 
-![Structure of BRCA1 (PDB ID: 1J)](./images/Stage-2/1JM7PDB_PROTEIN%20INT%202.png)
+![Structure of BRCA1 (PDB ID: 1J)](./images/c:\Users\hp\Desktop\hack bio internship\task 2\ALIGN\1JM7PDB_PROTEIN INT.png)
 
 *Figure 1: Structure of BRCA1 (PDB ID: 1JM7)*
 
