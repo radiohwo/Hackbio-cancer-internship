@@ -51,7 +51,7 @@ SWISS-MODEL generated multiple homology models based on the BRCA1 sequence:
 - Global Model Quality Estimation (GMQE) score: 0.76 (range 0-1, higher is better).
 
 #### 3.1.2 AlphaFold
-![Figure 3: Model predicted by Alphafold](./images/1JM7_Alphafold-1.png) 
+![Figure 3: Model predicted by Alphafold](./images/1JM7_Alphafold.png) 
 
 *Figure 3: Model predicted by Alphafold*
 
