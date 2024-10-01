@@ -120,7 +120,7 @@ Three protein structures were obtained from the Protein Data Bank (PDB):
 
 | AlphaFold Alignment | Swiss-Model Alignment |
 |:-------------------:|:---------------------:|
-| ![AlphaFold vs 1JM7](./images/ALIGN_1JM7-ALPHAFOLD.png) | ![Swiss-Model vs 1JM7](./images/Stage-2/ALIGN_1JM7-SWISSMODEL.png) |
+| ![AlphaFold vs 1JM7](./images/ALIGN_1JM7-ALPHAFOLD.png) | ![Swiss-Model vs 1JM7](./images/ALIGN_1JM7-SWISSMODEL.png) |
 | Figure 4: 3D AlphaFold structure aligned with Crystal structure of 1JM7 from PDB | Figure 5: 3D Swiss-Model structure aligned with Crystal structure of 1JM7 from PDB |
 
 ### BRCT Domain (PDB: 1OQA)
