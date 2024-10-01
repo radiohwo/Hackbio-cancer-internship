@@ -51,7 +51,8 @@ SWISS-MODEL generated multiple homology models based on the BRCA1 sequence:
 - Global Model Quality Estimation (GMQE) score: 0.76 (range 0-1, higher is better).
 
 #### 3.1.2 AlphaFold
-![Figure 3: Model predicted by Alphafold](./images/![alt text](1JM7_Alphafold-1.png)) 
+![Figure 3: Model predicted by Alphafold](./images/1JM7_Alphafold-1.png) 
+
 *Figure 3: Model predicted by Alphafold*
 
 AlphaFold produced a single high-confidence model:
@@ -119,7 +120,7 @@ Three protein structures were obtained from the Protein Data Bank (PDB):
 
 | AlphaFold Alignment | Swiss-Model Alignment |
 |:-------------------:|:---------------------:|
-| ![AlphaFold vs 1JM7](./images/Stage-2/ALIGN_1JM7-ALPHAFOLD.png) | ![Swiss-Model vs 1JM7](./images/Stage-2/ALIGN_1JM7-SWISSMODEL.png) |
+| ![AlphaFold vs 1JM7](./images/ALIGN_1JM7-ALPHAFOLD.png) | ![Swiss-Model vs 1JM7](./images/Stage-2/ALIGN_1JM7-SWISSMODEL.png) |
 | Figure 4: 3D AlphaFold structure aligned with Crystal structure of 1JM7 from PDB | Figure 5: 3D Swiss-Model structure aligned with Crystal structure of 1JM7 from PDB |
 
 ### BRCT Domain (PDB: 1OQA)
