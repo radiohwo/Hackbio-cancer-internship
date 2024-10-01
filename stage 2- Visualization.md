@@ -41,6 +41,7 @@ This methodology combines homology modeling, AI-based structure prediction, and 
 
 #### 3.1.1 SWISS-MODEL
 ![Figure 2: Model predicted by SwissModel](./images/swiss-model.jpg)
+
 *Figure 2: Model predicted by SwissModel*
 
 SWISS-MODEL generated multiple homology models based on the BRCA1 sequence:
@@ -51,6 +52,7 @@ SWISS-MODEL generated multiple homology models based on the BRCA1 sequence:
 
 #### 3.1.2 AlphaFold
 ![Figure 3: Model predicted by Alphafold](./images/![alt text](1JM7_Alphafold-1.png)) 
+
 *Figure 3: Model predicted by Alphafold*
 
 AlphaFold produced a single high-confidence model:
