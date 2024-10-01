@@ -40,7 +40,7 @@ This methodology combines homology modeling, AI-based structure prediction, and 
 ### 3.1 Model Selection and Quality Assessment
 
 #### 3.1.1 SWISS-MODEL
-![Figure 2: Model predicted by SwissModel](./images/c:\Users\hp\Desktop\hack bio internship\task 2\ALIGN\swiss-model.jpg)
+![Figure 2: Model predicted by SwissModel](./images/swiss-model.jpg)
 *Figure 2: Model predicted by SwissModel*
 
 SWISS-MODEL generated multiple homology models based on the BRCA1 sequence:
@@ -50,7 +50,7 @@ SWISS-MODEL generated multiple homology models based on the BRCA1 sequence:
 - Global Model Quality Estimation (GMQE) score: 0.76 (range 0-1, higher is better).
 
 #### 3.1.2 AlphaFold
-![Figure 3: Model predicted by Alphafold](./images/c:\Users\hp\Desktop\hack bio internship\task 2\ALIGN\1JM7_Alphafold.png)
+![Figure 3: Model predicted by Alphafold](./images/![alt text](1JM7_Alphafold-1.png)) 
 *Figure 3: Model predicted by Alphafold*
 
 AlphaFold produced a single high-confidence model:
