@@ -4,7 +4,7 @@ Authors (@slack):  Oluwasola Michael (@OluwasolaMichael), Muhammad Abdur Rehman 
 
 [Click here to watch the video](https://youtu.be/DjSeMZIijaU)
 
-![Local image](./images/header.png)
+![Local image](./images/)
 
 The paper titled "Benchmarking AlphaFold‐enabled molecular docking predictions for antibiotic discovery" presents a significant advancement in the field of drug discovery, particularly focusing on antibiotic development. The authors, including Felix Wong and Aarti Krishnan, explore the integration of AlphaFold2, a state-of-the-art protein structure prediction tool, with molecular docking simulations to enhance the prediction of protein-ligand interactions.
 
