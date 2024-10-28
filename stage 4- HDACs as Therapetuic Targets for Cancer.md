@@ -2,7 +2,7 @@
 
 # Reproducing Cancer Drug Sensitivity Prediction using Machine Learning
 
-## Authors: Muhammad Abdur Rehman, Oghenerukevwe Omatie Adiohwo and Oluwasola Michael
+## Authors (@slack): Oghenerukevwe Omatie Adiohwo (@OmatieAdiohwo), Muhammad Abdur Rehman (@abdurehman), and Oluwasola Michael (@oluwasolamichael)
 
 ## Introduction
 
