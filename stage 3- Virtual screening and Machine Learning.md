@@ -173,7 +173,7 @@ The performance of the model was evaluated using several metrics the following m
 - This figure shows how bioactivity classes span chemical spaces.
 
 
-![Bioactivity](./images/Stage-3/output-2.png)
+![output-2](https://github.com/user-attachments/assets/557fa53a-12e3-42ae-a7d2-96d8d52c75a4)
 
 
 - This figure shows the result of the trained model
