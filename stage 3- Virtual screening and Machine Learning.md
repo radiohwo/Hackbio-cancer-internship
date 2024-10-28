@@ -179,7 +179,7 @@ The performance of the model was evaluated using several metrics the following m
 - This figure shows the result of the trained model
 
 
-![Model training](./images/Stage-3/model_result.png)
+![model_result](https://github.com/user-attachments/assets/2faacd50-abb8-42ba-a6c9-164b4d2f79cb)
 
 
 
