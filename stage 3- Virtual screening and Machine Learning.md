@@ -1,6 +1,6 @@
 ## **Phase 1: Virtual Screening and Molecular Docking of inhibitors against Epidermal Growth Factor Receptor (EGFR)**
 
-## Authors: Oluwasola Michael, Muhammad Abdur Rehman, Oghenerukevwe Omatie Adiohwo and Bob-Manuel Osuji
+## Authors (@slack): Oghenerukevwe Omatie Adiohwo (@OmatieAdiohwo), Oluwasola Michael (@oluwasolamichael), Muhammad Abdur Rehman (@abdurehman),and Bob-Manuel Osuji (@ExceptionalBob).
 
 
 ### **1.0 Introduction**
