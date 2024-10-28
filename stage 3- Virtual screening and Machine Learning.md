@@ -93,7 +93,7 @@ This table presents the binding affinity and RMSD values for the top poses of 50
 - This figure shows the active site of EFGR
 
 
-![Structure of EFGR and active site (PDB ID: 5EDP)](./images/Stage-3/5EDP-ACTIVE%20SITE%20.png)
+![5EDP-ACTIVE SITE ](https://github.com/user-attachments/assets/5a613a88-7800-4e45-b801-57b37e9e6e19)
 
 ---
 
