@@ -44,6 +44,7 @@ The R² value of 0.069 indicates that our model explains approximately 6.9% of t
 
 ### Scatter Plot Analysis
 ![ML_predicted_result](https://github.com/user-attachments/assets/a91a3985-1eab-4734-86b9-afbf37613ad6)
+
 A scatter plot of actual vs. predicted IC50 values revealed a positive correlation, with a correlation coefficient of **0.069**. This moderate positive correlation suggests that while the model’s predictions generally align with the actual values, there is still room for improvement in predictive accuracy.
 
 ## Comparison with Target Paper
@@ -148,7 +149,7 @@ The heatmap of mean docking scores (Figure 1) revealed distinct patterns of bind
 3. HDAC6 and HDAC8 appeared to be the most promiscuous subtypes, showing strong binding affinities with a wide range of compounds.
 4. HDAC10 and HDAC11 exhibited more selective binding profiles, potentially due to structural differences in their catalytic sites.
 
-![Heatmap of average binding affinity across 11 HDAC subtypes](./stage-4/images/Heatmap_average_binding_affinity.png)
+![Heatmap_average_binding_affinity](https://github.com/user-attachments/assets/59e29ca0-00e3-40b8-bdf4-895525224a25)
 *Figure 1: Heatmap showing the average binding affinity of 61 compounds across 11 HDAC subtypes.*
 
 ### 3.2 Comparison with Known HDAC Inhibitors
