@@ -43,7 +43,7 @@ The optimized Orthogonal Matching Pursuit (OMP) model was assessed on the test s
 The R² value of 0.069 indicates that our model explains approximately 6.9% of the variance in the IC50 values. While this demonstrates some predictive power, a significant portion of the variability in the data remains unaccounted for, indicating potential areas for improvement.
 
 ### Scatter Plot Analysis
-![Scatter plot of actual vs predicted IC50](./stage-4/images/ML_predicted_result.png)
+![ML_predicted_result](https://github.com/user-attachments/assets/a91a3985-1eab-4734-86b9-afbf37613ad6)
 A scatter plot of actual vs. predicted IC50 values revealed a positive correlation, with a correlation coefficient of **0.069**. This moderate positive correlation suggests that while the model’s predictions generally align with the actual values, there is still room for improvement in predictive accuracy.
 
 ## Comparison with Target Paper
