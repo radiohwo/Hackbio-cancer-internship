@@ -168,7 +168,7 @@ The performance of the model was evaluated using several metrics the following m
 - This figure shows the result of the classified bioactivity data based on IC50 values.
 
 
-![Classification of bioactivity](./images/Stage-3/output.png)
+![output](https://github.com/user-attachments/assets/7ca9d341-d61b-4b59-9f6a-efca17523a6a)
 
 - This figure shows how bioactivity classes span chemical spaces.
 
