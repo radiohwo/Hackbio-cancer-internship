@@ -197,7 +197,8 @@ Analysis of the docking scores across all 11 HDAC subtypes provided insights int
 
 Figure 2 illustrates the binding pose of Quercetin in the active site of HDAC8, highlighting key interactions that contribute to its high affinity.
 
-![Docking example of Quercetin in HDAC8](./stage-4/images/2vqj_135398658docked-1.png)
+![2vqj_135398658docked-1](https://github.com/user-attachments/assets/1c3f1d15-27c5-413f-8c0e-a0323a9a5994)
+
 *Figure 2: Binding pose of Quercetin in the active site of HDAC8 (PDB ID: 1VKG). Key interactions with catalytic zinc and active site residues are highlighted.*
 
 ## 4. Conclusion
