@@ -1,7 +1,7 @@
 # *In silico* Analysis and Comparison of BRCA1 Protein Models
 
 ## Authors 
-Name (@slack ID): Oluwasola Michael (@oluwasolamichael), Muhammad Abdur Rehman (@abdurehman), Oghenerukevwe Omatie Adiohwo (@OmatieAdiohwo) and Bob-Manuel Osuji (@ExceptionalBob)
+Name (@slack ID): Oghenerukevwe Omatie Adiohwo (@OmatieAdiohwo), Oluwasola Michael (@oluwasolamichael), Muhammad Abdur Rehman (@abdurehman), and Bob-Manuel Osuji (@ExceptionalBob)
 
 ## 1. Introduction
 
