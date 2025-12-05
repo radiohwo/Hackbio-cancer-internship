@@ -2,7 +2,7 @@
 
 Large-scale Drug Repurposing for Breast Cancer.
 
-Authors :  Oluwasola Michael and Oghenerukeve Omatie Adiohwo
+Authors :  Oghenerukeve Omatie and Adiohwo Oluwasola Michael 
 
 Video presentation of our project
 
