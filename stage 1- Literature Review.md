@@ -1,6 +1,6 @@
 # Comprehensive Review of ```Benchmarking AlphaFold‐enabled Molecular Docking Predictions for Antibiotic Discovery```
 
-Authors (@slack):  Oluwasola Michael (@OluwasolaMichael), Muhammad Abdur Rehman (@abdurehman), Bob-Manuel Osuji (ExceptionalBob), Oghenerukevwe Omatie Adiohwo (@OmatieAdiohwo) 
+Authors (@slack):  Oghenerukevwe Omatie Adiohwo (@OmatieAdiohwo), Oluwasola Michael (@OluwasolaMichael), Muhammad Abdur Rehman (@abdurehman), Bob-Manuel Osuji (ExceptionalBob),  
 
 [Click here to watch the video](https://youtu.be/DjSeMZIijaU)
 
